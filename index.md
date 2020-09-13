@@ -1,13 +1,10 @@
-## Welcome to GitHub Pages
+## 史亮亮对不起二哥
 
-You can use the [editor on GitHub](https://github.com/sllhhxx/lkmj3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+他就是一傻子
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 他不珍惜哥哥 的爱
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+不是东西
 ```markdown
 Syntax highlighted code block
 
